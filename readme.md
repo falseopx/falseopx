@@ -1,4 +1,4 @@
-# cs
+# cs 💸
 
 Mostly known for making 1337 exploits.
 
