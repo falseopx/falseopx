@@ -6,4 +6,4 @@ Mostly known for making 1337 zero-day exploits.
 
 I'm the type of person who loves to keep things private and only make things I care less about open-source.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ecriminal&theme=dracula&margin-w=15&margin-h=15)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=ecriminal&theme=dracula&margin-w=15&margin-h=15&column=3)]()
