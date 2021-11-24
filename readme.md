@@ -1,7 +1,11 @@
 # falseopx
 
-ex dev of cattoware/cattori/pika hub\n
-professional procrastonist and project canceller\n
+ex dev of cattoware/cattori/pika hub
+
+
+professional procrastonist and project canceller
+
+
 false#8060
 
 ![falseopx's github stats](https://github-readme-stats.vercel.app/api?username=falseopx&theme=dracula&show_icons=true)
